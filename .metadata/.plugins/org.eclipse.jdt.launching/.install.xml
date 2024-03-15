@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/opt/homebrew/Cellar/openjdk@11/11.0.22/libexec/openjdk.jdk/Contents/Home" stamp="1704835189000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/microsoft-11.jdk/Contents/Home" stamp="1661032044000"/>
+    <entry loc="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_17.0.9.v20231028-0858/jre" stamp="1701466028000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home" stamp="1626879432000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home" stamp="1693218031047"/>
+    <entry loc="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_17.0.9.v20231028-0858" stamp="1701466028000"/>
+</dirs>
